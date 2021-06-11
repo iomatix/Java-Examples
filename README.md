@@ -1,3 +1,3 @@
 # Java Examples
 
-Please create your project and fill the package/import labels first.
+To test it out fill the package/import labels first.
